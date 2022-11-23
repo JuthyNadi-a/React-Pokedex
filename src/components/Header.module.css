@@ -1,0 +1,23 @@
+.header {
+    background-color: rgb(223, 233, 233);
+    height: 12vh;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(12, 124, 147);
+}
+.header a {
+    text-decoration: none;
+    color: rgb(12, 124, 147);
+    font-weight: 600;
+    transition: all .4;
+    font-size: 4vh;
+}
+
+.header a:active, a:hover{
+text-decoration: underline;
+color: rgb(47, 55, 57);
+}

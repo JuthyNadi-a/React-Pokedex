@@ -1,0 +1,24 @@
+.nav {
+    background-color: rgb(223, 233, 233);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    flex: 1;
+}
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    padding: 1vw;
+    margin: 1vw;
+}
