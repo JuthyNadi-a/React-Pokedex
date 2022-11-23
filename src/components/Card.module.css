@@ -10,6 +10,7 @@
     min-height: 55vh;
     width: 20vw;
     color: rgb(10, 84, 84);
+    text-shadow: 3px 3px 3px #e7e2e0, 3px 3px 5px #554e4c;
 }
 .card img {
     border-radius: 5px;

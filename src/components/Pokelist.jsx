@@ -26,7 +26,6 @@ class Pokelist extends Component{
     })
 }
     render() {
-        console.log(this.state.data);
         if(this.state.isLoading) {
             return <p>Loading...</p>
         }
