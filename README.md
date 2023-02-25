@@ -3,7 +3,6 @@
 ## Tools & Technologies
 
 - React 
-- React Hooks, axios
 - Javascript
 - Github
 - Rest API
