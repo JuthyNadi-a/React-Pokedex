@@ -10,5 +10,6 @@
 
 ## Features
 
-- Fetch all pokemons fromthe api
+- Fetch all pokemons from the api
 - search by name
+- Onclick shows the details of the selected pokemon
