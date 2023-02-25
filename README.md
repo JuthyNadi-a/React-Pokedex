@@ -1,9 +1,14 @@
 # Pokedex with react
 
-<!-- 
-Components:
-header
-nav 
-main
-footer
- -->
+##Tools & Technologies
+
+- React 
+- React Hooks, axios
+- Javascript
+- Github
+- Rest API
+
+## Features
+
+- Fetch all pokemons fromthe api
+- search by name
