@@ -1,6 +1,6 @@
 # Pokedex with react
 
-##Tools & Technologies
+## Tools & Technologies
 
 - React 
 - React Hooks, axios
